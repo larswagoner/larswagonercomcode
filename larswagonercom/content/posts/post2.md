@@ -12,6 +12,4 @@ series = []
 +++
 P0ST
 
-'''python
-print('hello')
-'''
+i just deleted something now
