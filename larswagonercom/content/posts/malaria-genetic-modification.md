@@ -9,6 +9,7 @@ tags = ["Mathematics", "Epidemiology", "Biology"]
 categories = ["Academic Work"]
 externalLink = ""
 series = []
++++
 
 I think what I'll do is I'll write this post, a more casual explanation of everything, kinda skipping over some of the details esp. for the standard model, then at the beginning I'll link to the paper that teo, bernardo and I did, then I'll link to this new paper that I do after writing this and maybe with some support from magnus. Writing a new paper allows me to reference the paper we already did without rewriting that one, and I can put my own spin off it. 
 
