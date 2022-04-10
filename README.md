@@ -7,3 +7,7 @@ Future posts:
   - Explaining the story behind the *Casino* card game, you can check out the repository [here](https://github.com/larswagoner/casino-py).
   - About Page.
   - Now Page.
+
+
+  1. Make modifications and run hugo server
+  2. to save to larswagoner.com: run hugo, commit and push changes, wait a bit. 
