@@ -1,158 +1,68 @@
-baseURL = "https://www.larswagoner.com/"
+baseurl = "http://www.larswagoner.com"
 title = "Lars Wagoner"
 theme = "hugo-coder"
-languageCode = "en"
-defaultContentLanguage = "en"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
 paginate = 20
-pygmentsStyle = "bw"
-pygmentsCodeFences = true
-pygmentsCodeFencesGuessSyntax = true
-enableEmoji = true
-# Enable Disqus comments
-# disqusShortname = "yourdiscussshortname"
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Lars Wagoner"
-description = "Lars Wagoner's personal website"
-keywords = ["blog", "mathematics", "personal"]
-info = ["Mathematics Student"]
-avatarURL = "images/avatar.png"
-#gravatar = "john.doe@example.com"
-footerContent = "Enter a text here."
-dateFormat = "2006/01/02"
-hideFooter = true
-hideCredits = false
-hideCopyright = false
-since = 2020
-# Git Commit in Footer, uncomment the line below to enable it
-commit = "https://github.com/luizdepra/hugo-coder/tree/"
-# Right To Left, shift content direction for languagues such as Arabic
-rtl = false
-# Specify light/dark colorscheme
-# Supported values:
-# "auto" (use preference set by browser)
-# "dark" (dark background, light foreground)
-# "light" (light background, dark foreground) (default)
-colorScheme = "dark"
-# Hide the toggle button, along with the associated vertical divider
-hideColorSchemeToggle = false
-# Series see also post count
-maxSeeAlsoItems = 5
-# Enable Twemoji
-enableTwemoji = false
-# Custom CSS
-customCSS = ["#grad1 {height: 100px;background: rgb(33,33,33);background: linear-gradient(157deg, rgba(33,33,33,1) 0%, rgba(33,33,60,1) 100%);}"]
-# Custom SCSS
-customSCSS = []
-# Custom JS
-customJS = []
+  author = "John Doe"
+  info = "Full Stack DevOps and Magician"
+  description = "John Doe's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpg"
+  #gravatar = "john.doe@example.com"
 
-# If you want to use fathom(https://usefathom.com) for analytics, add this section
-# [params.fathomAnalytics]
-# siteID = "ABCDE"
-# serverURL = "analytics.example.com" # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
 
-# If you want to use plausible(https://plausible.io) for analytics, add this section
-# [params.plausibleAnalytics]
-# domain = "example.com"
-# serverURL = "analytics.example.com" # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
+  since = 2019
 
-# If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
-# [params.goatCounter]
-# code = "code"
+  enableTwemoji = true
 
-# If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
-# [params.cloudflare]
-# token = "token"
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
 
-# If you want to use Matomo(https://matomo.org) for analytics, add this section
-# [params.matomo]
-# siteID = "ABCDE" # Default value is "1", overwrite this if you are cloud-hosting
-# serverURL = "analytics.example.com" # For cloud-hosting, use provided URL, e.g. example.matomo.cloud
-
-# If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
-# [params.googleTagManager]
-# id = "gid"
-
-# If you want to implement a Content-Security-Policy, add this section
-[params.csp]
-childsrc = ["'self'"]
-fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
-formaction = ["'self'"]
-framesrc = ["'self'"]
-imgsrc = ["'self'"]
-objectsrc = ["'none'"]
-stylesrc = [
-  "'self'",
-  "'unsafe-inline'",
-  "https://fonts.googleapis.com/",
-  "https://cdn.jsdelivr.net/"
-]
-scriptsrc = ["'self'", "'unsafe-inline'", "https://www.google-analytics.com"]
-prefetchsrc = ["'self'"]
-# connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
-connectsrc = ["'self'", "https://www.google-analytics.com"]
+  customCSS = ["css/custom.css"]
+  customSCSS = ["scss/custom.scss"]
+  customJS = ["js/custom.js"]
 
 [taxonomies]
-category = "categories"
-series = "series"
-tag = "tags"
-author = "authors"
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
 
+# Social links
 [[params.social]]
-name = "Github"
-icon = "fa fa-github"
-weight = 1
-url = "https://github.com/larswagoner/"
-target = "_blank"
-
-#[[params.social]]
-#name = "Gitlab"
-#icon = "fa fa-gitlab"
-#weight = 2
-#url = "https://gitlab.com/johndoe/"
-#target = "_blank"
-
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/johndoe/"
 [[params.social]]
-name = "Twitter"
-icon = "fa fa-twitter"
-weight = 3
-url = "https://twitter.com/lars_wagoner/"
-target = "_blank"
-
+  name = "Gitlab"
+  icon = "fa fa-gitlab fa-2x"
+  weight = 2
+  url = "https://gitlab.com/johndoe/"
 [[params.social]]
-name = "LinkedIn"
-icon = "fa fa-linkedin"
-weight = 4
-url = "https://www.linkedin.com/in/larswagoner/"
-target = "_blank"
-
-#[[params.social]]
-#name = "Medium"
-#icon = "fa fa-medium"
-#weight = 5
-#url = "https://medium.com/@johndoe"
-#target = "_blank"
-
-#[[params.social]]
-#name = "RSS"
-#icon = "fa fa-rss"
-#weight = 6
-#url = "https://myhugosite.com/index.xml"
-#rel = "alternate"
-#type = "application/rss+xml"
-#target = "_blank"
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/johndoe/"
 
 # Menu links
 [[menu.main]]
-  name = "Posts"
-  weight = 2
-  url  = "posts/" #this is my blog, where I add posts that aren't projects. Maybe not, maybe use categories to distinguish between post and project... they *type* of content. and use tags to describe what the content is about
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
 [[menu.main]]
   name = "About"
-  weight = 1
-  url = "about/" #this is an about me and about the website, link to everything here
-[[menu.main]]
-  name = "Now"
-  weight = 3
-  url = "now/"
+  weight = 2
+  url = "about/"
