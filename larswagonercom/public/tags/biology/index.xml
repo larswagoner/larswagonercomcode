@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Lars Wagoner</title>
-    <link>https://www.larswagoner.com/posts/</link>
-    <description>Recent content in Posts on Lars Wagoner</description>
+    <title>Biology on Lars Wagoner</title>
+    <link>https://www.larswagoner.com/tags/biology/</link>
+    <description>Recent content in Biology on Lars Wagoner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Aug 2021 20:12:30 +0200</lastBuildDate><atom:link href="https://www.larswagoner.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Aug 2021 20:12:30 +0200</lastBuildDate><atom:link href="https://www.larswagoner.com/tags/biology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Malaria - Genetic Modification</title>
       <link>https://www.larswagoner.com/posts/malaria-genetic-modification/</link>
@@ -14,25 +14,6 @@
       
       <guid>https://www.larswagoner.com/posts/malaria-genetic-modification/</guid>
       <description>I think what I&amp;rsquo;ll do is I&amp;rsquo;ll write this post, a more casual explanation of everything, kinda skipping over some of the details esp. for the standard model, then at the beginning I&amp;rsquo;ll link to the paper that teo, bernardo and I did, then I&amp;rsquo;ll link to this new paper that I do after writing this and maybe with some support from magnus. Writing a new paper allows me to reference the paper we already did without rewriting that one, and I can put my own spin off it.</description>
-    </item>
-    
-    <item>
-      <title>Post2</title>
-      <link>https://www.larswagoner.com/posts/post2/</link>
-      <pubDate>Sun, 08 Aug 2021 02:22:26 +0200</pubDate>
-      
-      <guid>https://www.larswagoner.com/posts/post2/</guid>
-      <description>P0ST
-i just deleted something now</description>
-    </item>
-    
-    <item>
-      <title>Post 1</title>
-      <link>https://www.larswagoner.com/posts/post1/</link>
-      <pubDate>Sun, 08 Aug 2021 02:11:06 +0200</pubDate>
-      
-      <guid>https://www.larswagoner.com/posts/post1/</guid>
-      <description>Post 1 :)</description>
     </item>
     
   </channel>
