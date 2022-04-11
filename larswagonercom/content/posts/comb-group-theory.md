@@ -1,6 +1,6 @@
 +++ 
 draft = true
-date = 2022-01-18
+date = 2022-01-11T23:16:03+02:00
 title = "Combinatorial Group Theory"
 description = "Independent Study"
 slug = "comb-group-theory"
@@ -10,5 +10,4 @@ categories = ["Projects"]
 externalLink = ""
 series = []
 +++
-
-Combinatorial Group theory
+.
