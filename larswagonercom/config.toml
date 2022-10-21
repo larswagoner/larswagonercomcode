@@ -113,12 +113,12 @@ target = "_blank"
 #url = "https://gitlab.com/johndoe/"
 #target = "_blank"
 
-[[params.social]]
-name = "Twitter"
-icon = "fa fa-twitter"
-weight = 3
-url = "https://twitter.com/lars_wagoner/"
-target = "_blank"
+#[[params.social]]
+#name = "Twitter"
+#icon = "fa fa-twitter"
+#weight = 3
+#url = "https://twitter.com/lars_wagoner/"
+#target = "_blank"
 
 [[params.social]]
 name = "LinkedIn"

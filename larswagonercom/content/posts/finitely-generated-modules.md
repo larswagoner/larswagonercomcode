@@ -12,4 +12,4 @@ series = []
 +++
 In this project for the "Honours Programme" I studied and presented The Fundamental Theorem for Finitely Generated Modules over a Principal Ideal Domain, along with the relevant lemmas, corollaries and algorithms. In particular, I deduced and presented an algorithm to determine the structure of a module M in terms of the direct sums of quotient modules of a Euclidean Domain, R. 
 
-*Contact me if you are interested the paper!*
+*Contact me if you are interested in the paper!*
