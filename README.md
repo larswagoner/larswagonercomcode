@@ -6,4 +6,6 @@ To do:
  - Thesis post and stuff about algebraic ai
 
   1. Make modifications and run hugo server
-  2. to save to larswagoner.com: run hugo, commit and push changes, wait a bit. 
+  2. Add Commit Push changes in lwcomcode/lwcom/public
+  3. add commit push in lwcomcode/lwcom
+  4. add commit push in lwcomcode.

@@ -10,3 +10,4 @@ This is my now page, where I share what I'm up to right now. You can read more [
 *  Working with the lovely people at Algebraic AI and the de Polavieja Lab at the Champalimaud Foundation "Centre of the Unknown".
 *  Interested in living life more slowly and intentionally.
 *  Finishing Orwell's Homage to Cataluña.
+*  At some point in the (very?) near future I would like to familiarize myself with: formal verification, entrepreneurship, quantum mechanics, spectral hypergraph theory... basically computer stuff, business stuff and operator stuff.  
