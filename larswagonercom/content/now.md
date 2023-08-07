@@ -5,8 +5,7 @@ draft: false
 ---
 This is my now page, where I share what I'm up to right now. You can read more [here](https://nownownow.com/about).
 
-* Studying mathematics in Amsterdam, really enjoying my algebra courses and projects. 
-* Playing basketball, going bouldering! 
-* [This](https://www.poemas-del-alma.com/yo-voy-sonando-caminos.htm) is one of my favorite poems by one of my favorite poets. 
-* Recently started learning how to knit.
-* Travelling a decent amount during weekends.
+*  In Valencia. Paris, NY, DC and CDMX by the end of the month.
+*  Working with the lovely people at Algebraic AI and the de Polavieja Lab at the Champalimaud Foundation "Centre of the Unknown".
+*  Interested in living life more slowly and intentionally.
+*  Finishing Orwell's Homage to Cataluña.
