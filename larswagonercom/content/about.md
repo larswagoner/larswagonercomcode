@@ -5,8 +5,10 @@ draft: false
 ---
 Hello! I'm Lars. 
 
-I grew up in Spain and most recently studied mathematics in Amsterdam. I have recently donated or sold most of my things and everything I own fits in a small and a medium sized backpack. I have a deep passion for mathematics, in part because I believe it strikes the perfect balance of having a framework for discussing truth while also having meaning. Most of my time has been spent thinking about and learning algebra, most recently venturing into universal algebra, but I enjoyed my explorations of logic, functional analysis, category theory and graph theory as well. Outside of math I enjoy other creative endeavors such as poetry, theater, comedy and painting. I try to read as much as I can, so I will gladly accept any recommendations.
+I am a grad student in mathematics in Leiden and Bordeaux. Interested in algebra, logic, formal methods, computer science and machine learning. Practically, looking to explore information security and AI safety. 
 
 [This](https://www.poemas-del-alma.com/yo-voy-sonando-caminos.htm) is one of my favorite poems by one of my favorite poets. You can read more about my current interests on my [Now page](https://larswagoner.com/now). You can also check out some of the projects I have worked on [here](https://larswagoner.com/categories/projects/). If you would like to get in touch, you can send an email to contact@larswagoner.com, or you can just stalk my [LinkedIn](https://www.linkedin.com/in/larswagoner/), I'll get the hint.
 
 This website uses [Hugo](https://gohugo.io/) as a static site generator, I have made some tweaks to the [Coder](https://github.com/luizdepra/hugo-coder) theme and everything is hosted for free on [Github Pages](https://pages.github.com/)!
+
+Updated 21 August 2024. 
