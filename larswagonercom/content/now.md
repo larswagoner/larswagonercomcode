@@ -5,11 +5,10 @@ draft: false
 ---
 This is my now page, where I share what I'm up to right now. You can read more [here](https://nownownow.com/about).
 
-*  In Leiden, NL.
-*  Working with the lovely people at Algebraic AI and the de Polavieja Lab at the Champalimaud Foundation "Centre of the Unknown". Focusing on theoretical and practical aspects of AML, including model interpretability. 
-*  Interested in improving my worldview and engaging authentically with my environment.
-*  Learning about data engineering and LLMs.
-*  Recently watched Bergman's <u>Wild Strawberries</u> which seems to draw a lot from Chekhov's <u>A Dreary Story</u>. 
-*  Main books I'm reading are Steinbeck's <u>Tortilla Flat</u> and Unamuno's <u>Niebla</u>.
-*  My most recent hobbies include developing a personal knowledge management system, jumping rope, and developing healthy routines. 
-*  Updating this site... need to add a post about my Honours Bachelor's Thesis and other projects I have completed within the last 24 months. I participated in a number of seminars, did some travelling, worked a lot with hamiltonian graphs, built a custom CRM for a friend...
+* In Bordeaux, FR.
+* Working on bringing formally verified mathematics to the educational environment at [Waterproof](https://impermeable.github.io/).
+* Writing my Master's Thesis on the Fast Fourier Transform for certain group algebras, with applications in post-quantum cryptography (coding theory).
+* Walking a lot.
+* Learning about semiconductors: supply chain, geopolitics, etc.
+* Instead of reading I mostly listen to audiobooks (<u>Atonement</u>, <u>World For Sale</u>, <u>True Grit</u>) nowadays, if I want to read I will typically pick a long form article from [The Electric Typewriter](https://tetw.org/).
+* In my free time I like vibecoding components of a personal knowledge management system.
